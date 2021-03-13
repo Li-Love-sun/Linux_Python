@@ -1,2 +1,4 @@
 # Linux_Python
 自学Python的远程Linux代码
+采用了python的paramiko库进行操作，jdk、mysql都是在本地的虚拟机进行安装测试、
+安装包是和Linux.py文件在同一目录进行自动上传到Linux虚拟机、自行安装
